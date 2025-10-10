@@ -1,10 +1,10 @@
 # 🎉 Hacktoberfest 2025 - Data Structures & Algorithms
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-orange.svg)](https://hacktoberfest.digitalocean.com/)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange.svg)](https://hacktoberfest.digitalocean.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Welcome to our **Hacktoberfest 2024** repository! This is a beginner-friendly collection of Data Structures and Algorithms implementations in multiple programming languages. Whether you're a seasoned developer or just starting your coding journey, this repository is perfect for contributing to open source during Hacktoberfest.
+Welcome to our **Hacktoberfest 2025** repository! This is a beginner-friendly collection of Data Structures and Algorithms implementations in multiple programming languages. Whether you're a seasoned developer or just starting your coding journey, this repository is perfect for contributing to open source during Hacktoberfest.
 
 ## 🎯 What is Hacktoberfest?
 
