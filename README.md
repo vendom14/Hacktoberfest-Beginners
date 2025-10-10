@@ -1,4 +1,4 @@
-# 🎉 Hacktoberfest 2024 - Data Structures & Algorithms
+# 🎉 Hacktoberfest 2025 - Data Structures & Algorithms
 
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-orange.svg)](https://hacktoberfest.digitalocean.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
