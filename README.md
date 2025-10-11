@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Welcome to our **Hacktoberfest 2025** repository! This is a beginner-friendly collection of Data Structures and Algorithms implementations in multiple programming languages. Whether you're a seasoned developer or just starting your coding journey, this repository is perfect for contributing to open source during Hacktoberfest.
+Welcome to our **Hacktoberfest 2025** repository! This is a beginner-friendly collection of Programming implementations in multiple programming languages. Whether you're a seasoned developer or just starting your coding journey, this repository is perfect for contributing to open source during Hacktoberfest.
 
 ## 🎯 What is Hacktoberfest?
 
@@ -12,7 +12,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 ## 📚 About This Repository
 
-This repository contains implementations of various **Data Structures and Algorithms** problems in multiple programming languages. It's designed to help beginners learn and contribute to open source while practicing their coding skills.
+This repository contains implementations of various **Programming** problems in multiple programming languages. It's designed to help beginners learn and contribute to open source while practicing their coding skills.
 
 ### 🗂️ Supported Languages
 
@@ -44,7 +44,7 @@ This repository contains implementations of various **Data Structures and Algori
 
 2. **Choose a problem** 📝
 
-   - Pick any data structure or algorithm problem
+   - Pick any programming problem
    - Check if it's already implemented in your preferred language
    - If not implemented, you can add it!
 
